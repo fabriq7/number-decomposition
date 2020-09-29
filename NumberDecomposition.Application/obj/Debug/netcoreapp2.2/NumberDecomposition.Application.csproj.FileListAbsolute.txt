@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\bin\Debug\netcoreapp2.2\NumberDecomposition.Application.deps.json
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\bin\Debug\netcoreapp2.2\NumberDecomposition.Application.dll
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\bin\Debug\netcoreapp2.2\NumberDecomposition.Application.pdb
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\obj\Debug\netcoreapp2.2\NumberDecomposition.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\obj\Debug\netcoreapp2.2\NumberDecomposition.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\obj\Debug\netcoreapp2.2\NumberDecomposition.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\obj\Debug\netcoreapp2.2\NumberDecomposition.Application.dll
+C:\Users\User\source\repos\NumberDecomposition\NumberDecomposition.Application\obj\Debug\netcoreapp2.2\NumberDecomposition.Application.pdb
